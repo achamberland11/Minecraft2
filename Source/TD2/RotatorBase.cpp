@@ -42,4 +42,3 @@ void URotatorBase::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 		Owner->SetActorRotation(NewRotation);
 	}
 }
-
