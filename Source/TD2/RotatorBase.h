@@ -23,9 +23,14 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+	
+	UPROPERTY(EditAnywhere)
+	float speed = 100.0f;
 
-  UPROPERTY(EditAnywhere) float Speed = 1.0f;
-  UPROPERTY(EditAnywhere) bool bRotateX = false;
-  UPROPERTY(EditAnywhere) bool bRotateY = false;
-  UPROPERTY(EditAnywhere) bool bRotateZ = false;
+	UPROPERTY(EditAnywhere)
+	bool bRotateX = false;
+	UPROPERTY(EditAnywhere)
+	bool bRotateY = false;
+	UPROPERTY(EditAnywhere)
+	bool bRotateZ = true;
 };

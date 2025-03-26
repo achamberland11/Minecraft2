@@ -21,7 +21,7 @@ void UMovementBase::BeginPlay()
 
 	if (AActor* Owner = GetOwner())
 	{
-		StartPosition = Owner->GetActorLocation();
+		startPosition = Owner->GetActorLocation();
 	}
 	
 }
@@ -32,27 +32,26 @@ void UMovementBase::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	UpdateMovement(DeltaTime);
+	UpdateMouvement(DeltaTime);
 }
 
-void UMovementBase::UpdateMovement(float DeltaTime)
+void UMovementBase::UpdateMouvement(float DeltaTime)
 {
-	if (!GetOwner()) return;
+	if (!GetOwner()) {	return;	}
 
-	FVector NormalizedDirection = MovementDirection.GetSafeNormal();
-	FVector Offset = NormalizedDirection * Speed * DeltaTime;
+	FVector normalizedDirection = movementDirection.GetSafeNormal();
+	FVector offset = normalizedDirection * speed * DeltaTime;
 
-	FVector NewPosition = GetOwner()->GetActorLocation() + Offset;
+	FVector newPosition = GetOwner()->GetActorLocation() + offset;
 
-	if (bCanMoveBackForth)
+	if (bCanMoveBackAndForth)
 	{
-		if (FVector::Dist(StartPosition, NewPosition) >= MovementRange)
+		if (FVector::Dist(startPosition, newPosition) >= movementRange)
 		{
-			MovementDirection = -MovementDirection;
-
-			NewPosition = GetOwner()->GetActorLocation() + MovementDirection.GetSafeNormal() * Speed * DeltaTime;
+			movementDirection = -movementDirection;
+			newPosition = GetOwner()->GetActorLocation() + movementDirection.GetSafeNormal() * speed * DeltaTime;
 		}
 	}
 
-	GetOwner()->SetActorLocation(NewPosition);
+	GetOwner()->SetActorLocation(newPosition);
 }

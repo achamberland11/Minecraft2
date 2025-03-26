@@ -24,12 +24,22 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement") float Speed = 100.0f;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement") FVector MovementDirection = FVector::Zero();
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement") float MovementRange = 0.0f;
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement") bool bCanMoveBackForth = true;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
+	float speed = 100.0f;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
+	FVector movementDirection = FVector::Zero();
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
+	float movementRange = 0.0f;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
+	bool bCanMoveBackAndForth = true;
 
 private:
-	FVector StartPosition;
-	void UpdateMovement(float DeltaTime);
+
+	FVector startPosition;
+
+	void UpdateMouvement(float DeltaTime);
 };
