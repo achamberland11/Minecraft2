@@ -1,0 +1,178 @@
+[
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\Item.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\Item.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\MovementBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\MovementBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase2.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase2.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TD2.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TD2.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TD2.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPerson.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TimerZone.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TimerZone.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_Default\\TD2.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+	}
+]

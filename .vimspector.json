@@ -1,0 +1,18 @@
+{
+  "configurations": {
+    "Launch": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "launch",
+        "program": "C:/Program Files/UE5/UE_5.4/Engine/Binaries/Win64/UnrealEditor-Win64-DebugGame.exe",
+        "args": [
+          "C:/Users/Antoine/Documents/Projets/Unreal/Minecraft2/TD2.uproject"
+        ],
+        "cwd": "C:/Program Files/UE5/UE_5.4",
+        "externalConsole": true,
+        "MIDebuggerPath": "C:/MinGW/bin/gdb.exe",
+        "MIMode": "gdb"
+      }
+    }
+  }
+}
