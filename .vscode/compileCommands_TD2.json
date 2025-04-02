@@ -1,200 +1,200 @@
 [
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\Item.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\Item.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\Item.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\Item.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayer.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayer.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayer.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayer.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayerComponent.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayerComponent.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayerComponent.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\KillPlayerComponent.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\MovementBase.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\MovementBase.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\MovementBase.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\MovementBase.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase2.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase2.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase2.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\RotatorBase2.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TD2.Build.cs",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TD2.Build.cs",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TD2.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TD2.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TD2.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TD2.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPerson.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPerson.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonCharacter.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonCharacter.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonCharacter.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonCharacter.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonGameMode.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonGameMode.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonGameMode.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TP_ThirdPerson\\TP_ThirdPersonGameMode.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TimerZone.cpp",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TimerZone.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\Source\\TD2\\TimerZone.h",
+		"file": "D:\\Unreal\\Minecraft2\\Source\\TD2\\TimerZone.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-      "@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\clang-flags.txt",
-			"@C:\\Users\\Antoine\\Documents\\Projets\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal\\Minecraft2\\clang-flags.txt",
+			"@D:\\Unreal\\Minecraft2\\.vscode\\compileCommands_TD2\\TD2.1.rsp"
 		],
-		"directory": "C:\\Program Files\\UE5\\UE_5.4\\Engine\\Source"
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
 	}
 ]
