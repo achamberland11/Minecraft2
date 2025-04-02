@@ -30,6 +30,9 @@ public:
 
 	void ResetScore();
 
+	UPROPERTY(EditAnywhere, Category = "Timer")
+	float timeLimit;
+
 	UPROPERTY(VisibleAnywhere, Category = "Timer")
 	float time;
 

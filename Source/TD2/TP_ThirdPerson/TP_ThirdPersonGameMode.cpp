@@ -59,6 +59,18 @@ void ATP_ThirdPersonGameMode::Tick(float DeltaTime)
 	{
 		time += DeltaTime;
 	}
+
+	if (time >= timeLimit)
+	{
+		if (AActor* Owner = GetOwner())
+		{
+			ATP_ThirdPersonCharacter* Character = Owner->FindComponentByClass<ATP_ThirdPersonCharacter>();
+			if (Character)
+			{
+				Character->CallRestartPlayer();
+			}
+		}
+	}
 }
 
 void ATP_ThirdPersonGameMode::StartTimer()
