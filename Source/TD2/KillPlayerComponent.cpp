@@ -44,4 +44,3 @@ void UKillPlayerComponent::OnHit(UPrimitiveComponent* HitComponent, AActor* Othe
 		}
 	}
 }
-
