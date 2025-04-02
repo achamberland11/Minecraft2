@@ -16,6 +16,7 @@ ATP_ThirdPersonGameMode::ATP_ThirdPersonGameMode()
 	}
 
 	PrimaryActorTick.bCanEverTick = true;
+	timeLimit = 40;
 }
 
 void ATP_ThirdPersonGameMode::RestartPlayer(AController* NewPlayer)
@@ -62,14 +63,14 @@ void ATP_ThirdPersonGameMode::Tick(float DeltaTime)
 
 	if (time >= timeLimit)
 	{
-		if (AActor* Owner = GetOwner())
-		{
-			ATP_ThirdPersonCharacter* Character = Owner->FindComponentByClass<ATP_ThirdPersonCharacter>();
-			if (Character)
-			{
-				Character->CallRestartPlayer();
-			}
-		}
+		//if (AActor* Owner = GetOwner())
+		//{
+			//ATP_ThirdPersonCharacter* Character = Owner->FindComponentByClass<ATP_ThirdPersonCharacter>();
+			//if (Character)
+			//{
+				//Character->CallRestartPlayer();
+			//}
+		//}
 	}
 }
 
