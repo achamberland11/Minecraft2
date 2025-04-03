@@ -2,6 +2,7 @@
 
 #include "TP_ThirdPersonGameMode.h"
 #include "TP_ThirdPersonCharacter.h"
+#include "GameFramework/PlayerController.h"
 #include "../Item.h"
 #include "UObject/ConstructorHelpers.h"
 #include "EngineUtils.h"
@@ -16,6 +17,7 @@ ATP_ThirdPersonGameMode::ATP_ThirdPersonGameMode()
 	}
 
 	PrimaryActorTick.bCanEverTick = true;
+	timeLimit = 10;
 }
 
 void ATP_ThirdPersonGameMode::RestartPlayer(AController* NewPlayer)
@@ -58,6 +60,19 @@ void ATP_ThirdPersonGameMode::Tick(float DeltaTime)
 	if (bTimerIsRunning)
 	{
 		time += DeltaTime;
+	}
+
+	if (time >= timeLimit)
+	{
+    APlayerController* PlayerCharacter = GetWorld()->GetFirstPlayerController();
+		if (PlayerCharacter)
+		{
+			ATP_ThirdPersonCharacter* Character = Cast<ATP_ThirdPersonCharacter>(PlayerCharacter->GetPawn());
+			if (Character)
+			{
+				Character->CallRestartPlayer();
+			}
+		}
 	}
 }
 
