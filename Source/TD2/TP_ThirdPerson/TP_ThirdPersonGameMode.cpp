@@ -17,7 +17,7 @@ ATP_ThirdPersonGameMode::ATP_ThirdPersonGameMode()
 	}
 
 	PrimaryActorTick.bCanEverTick = true;
-	timeLimit = 10;
+	timeLimit = 20;
 }
 
 void ATP_ThirdPersonGameMode::RestartPlayer(AController* NewPlayer)
