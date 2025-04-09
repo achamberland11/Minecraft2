@@ -48,6 +48,10 @@ public:
 	ATP_ThirdPersonCharacter();
 
 	void CallRestartPlayer();
+	void ActivateBoostJump();
+	void DeactivateBoostJump();
+
+	FTimerHandle jumpBoostTimerHandle;
 	
 
 protected:

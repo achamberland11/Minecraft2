@@ -6,7 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "Item.generated.h"
 
-UCLASS()
+UCLASS(Abstract)
 class TD2_API AItem : public AActor
 {
 	GENERATED_BODY()
@@ -27,4 +27,5 @@ protected:
 
 	UFUNCTION()
 	void OnOverLapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+	virtual void OnCollected() PURE_VIRTUAL(AItem::OnCollected);
 };

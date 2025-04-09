@@ -8,6 +8,7 @@
 // Sets default values
 AItem::AItem()
 {
+	PrimaryActorTick.bCanEverTick = false;
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>("Mesh");
 	RootComponent = Mesh;
 
@@ -23,23 +24,15 @@ void AItem::BeginPlay()
 
 void AItem::OnOverLapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	UE_LOG(LogTemp, Log, TEXT("Enter item"));
 	if (OtherActor)
 	{
 		ATP_ThirdPersonCharacter* Character = Cast<ATP_ThirdPersonCharacter>(OtherActor);
 		if (Character)
 		{
-			if (UWorld* World = GetWorld())
-			{
-				if (ATP_ThirdPersonGameMode* GameMode = Cast<ATP_ThirdPersonGameMode>(World->GetAuthGameMode()))
-				{
-					GameMode->IncrementScore();
-					//Destroy();
-					UE_LOG(LogTemp, Log, TEXT("Hide item"));
-					SetActorHiddenInGame(true);
-					SetActorEnableCollision(false);
-				}
-			}
+			OnCollected();
+
+			SetActorHiddenInGame(true);
+			SetActorEnableCollision(false);
 		}
 	}
 }

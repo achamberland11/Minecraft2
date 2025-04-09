@@ -158,3 +158,17 @@ void ATP_ThirdPersonCharacter::CallRestartPlayer()
 		}
 	}
 }
+
+void ATP_ThirdPersonCharacter::ActivateBoostJump()
+{
+	GetWorld()->GetTimerManager().ClearTimer(jumpBoostTimerHandle);
+
+	GetCharacterMovement()->JumpZVelocity *= 50;
+
+	GetWorld()->GetTimerManager().SetTimer(jumpBoostTimerHandle, this, &ATP_ThirdPersonCharacter::DeactivateBoostJump, 5.0f, false);
+}
+
+void ATP_ThirdPersonCharacter::DeactivateBoostJump()
+{
+	GetCharacterMovement()->JumpZVelocity /= 50;
+}
