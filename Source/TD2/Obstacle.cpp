@@ -9,12 +9,7 @@
 // Sets default values
 AObstacle::AObstacle()
 {
-	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-	Mesh = CreateDefaultSubobject<UStaticMeshComponent>("Mesh");
-	RootComponent = Mesh;
-
-	Mesh->OnComponentBeginOverlap.AddDynamic(this, &AObstacle::OnOverLapBegin);
+    PrimaryActorTick.bCanEverTick = false;
 }
 
 // Called when the game starts or when spawned
@@ -22,6 +17,10 @@ void AObstacle::BeginPlay()
 {
 	Super::BeginPlay();
 
+    Mesh = this->FindComponentByClass<UStaticMeshComponent>();
+    RootComponent = Mesh;
+
+    Mesh->OnComponentHit.AddDynamic(this, &AObstacle::OnHit);
 }
 
 // Called every frame
@@ -31,16 +30,29 @@ void AObstacle::Tick(float DeltaTime)
 
 }
 
-void AObstacle::OnOverLapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
+void AObstacle::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
-	if (OtherActor)
-	{
-		ATP_ThirdPersonCharacter* Character = Cast<ATP_ThirdPersonCharacter>(OtherActor);
-		if (Character)
-		{
+    if (OtherActor)
+    {
+        UE_LOG(LogTemp, Warning, TEXT("COlLISION"));
 
-		}
-	}
+        ATP_ThirdPersonCharacter* Character = Cast<ATP_ThirdPersonCharacter>(OtherActor);
+        if (Character)
+        {
+            OnCharacterHit(Character);
+        }
+    }
+
+}
+
+void AObstacle::OnCharacterHit(ATP_ThirdPersonCharacter* Character)
+{
+    UE_LOG(LogTemp, Warning, TEXT("Knockback applied to character!"));
+
+    FVector KnockbackDirection = Character->GetActorLocation() - GetActorLocation();
+    KnockbackDirection.Normalize();
+
+    Character->LaunchCharacter(KnockbackDirection * KnockbackStrength, true, true);
 }
 
 UStaticMeshComponent* AObstacle::GetMeshComponent()

@@ -13,5 +13,10 @@ UCLASS()
 class TD2_API AObstacleKill : public AObstacle
 {
 	GENERATED_BODY()
-	
+
+protected:
+	virtual void OnCharacterHit(ATP_ThirdPersonCharacter* Character) override;
+
+private:
+	USkeletalMeshComponent* CharacterMesh;
 };
