@@ -1,0 +1,6 @@
+CompileFlags:
+  Add: 
+    - "C:\Program Files\Epic Games\UE_5.5\Engine\Source"
+    - "C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime"
+    - "C:\Program Files\Epic Games\UE_5.5\Engine\Source\ThirdParty"
+    # Add other necessary include paths here

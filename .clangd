@@ -1,0 +1,9 @@
+CompileFlags:
+  Add: 
+    - "C:/Program Files/Epic Games/UE_5.5/Engine/Source"
+    - "C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime"
+    - "C:/Program Files/Epic Games/UE_5.5/Engine/Source/ThirdParty"
+    - "D:/Unreal/Minecraft2/Source"  # Add your project's source directory
+    - "D:/Unreal/Minecraft2/Source/Minecraft2"  # Add your project's module directory
+    - "D:/Unreal/Minecraft2/Source/Minecraft2/Public"  # Add your project's public headers
+    - "D:/Unreal/Minecraft2/Source/Minecraft2/Private"  # Add your project's private headers
